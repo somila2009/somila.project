@@ -63,8 +63,5 @@
 </div>
 
 <footer>
-    &copy; 2025 Luzmilla
+    &copy; 2025 Somila
 </footer>
-
-</body>
-</html>
